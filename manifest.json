@@ -28,6 +28,8 @@
             "matches": [
                 "https://beta.character.ai/*",
                 "https://plus.character.ai/*"
+                "https://spicychat.ai/*"
+                "https://janitorai.com/*"
             ],
             "js": [
                 "/scripts/crc32.min.js",
